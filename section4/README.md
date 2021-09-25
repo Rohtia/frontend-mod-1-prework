@@ -119,7 +119,7 @@ var zebraObject = {
 };
 
 zebraObject.feed(); //logs "Give grass to the Zebra"
-```
+``` 
 
 > 👨🏾‍💻 PAUSE here, and complete the exercises in `methods.js`
 
